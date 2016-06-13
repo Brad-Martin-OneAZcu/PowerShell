@@ -1,0 +1,551 @@
+﻿<File version="2">
+  <FileID>ee52cbb4-6d99-4ed7-b103-d9f9fa33ea05</FileID>
+  <Preview>iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAD4OSURBVHhe7d3ZU5z5ge75vjvnzMX8BXM3Nydi
+TkzMXPXFuZibiTkxMdHd59jdttvddrXbrrJrL9Wm0r6vaEcbktCCJLSvoB0hiVWAWMS+rwkkkJCQ
+e7Lomd/vRVSpVCitKssC3vx+HR8LQZKQlMj3ySSBvyEiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi
+IiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi
+IiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi
+IiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi
+IiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi
+IiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi
+IiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi
+IlpIpfyn//Qfc371q1/lbNqckrN+/aacdQAAYEFZv3Fzzrp163P+9//yv+WYY7uVuP/4H/7D48VL
+liu/okm1XSOq7RwGAAALTJ1zDPcp6/YD/e3f/q2eH+Zf3S/+6Rc5+eWNKm7oU255KwAAWKAeVLSp
+qmNER46d+vMDYOvW7TmNnjE9qGzTo6p2AACSSt5f6C89jzfxfsych1XS0K+HRRV/fgBs3Lw1p7k3
+4LxS/tMOAACSRkF1p+OBvfX8E9jXLazpVJ45L+cW+I/00Nxit69vPapsn/U0idi3aQeAff2Zy1TW
+5NW9R49fYwBs2uwMgLynXd9+IApq7NPmA/O0zTzdq7zaYeXX+lRQN2zeSPd3pwMAYIEqdI51nbp8
+t0znsot0/sbjH8W+zrX7lc5B/PxN+7zi715u/n7hVokuvsD+ffp0M6cp1tmsQt0prFNOSaN5+vvv
+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
+AAAw/9hb+90v6BoMqql3zLkh/5MHQL1ZD3ZBAACAhcMe/O1x/LUHwObNW++PTcm8wpTzSgAAYOEa
+iEqPy+v+/AD48svFheVPG81aqHAWAwAAWLgel9fqwqXrf34AEBERERERERERERERERERERERERER
+ERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERER
+ERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERER
+ERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERER
+ERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERER
+ERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERER
+ERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERER
+ERERERERzY/+5m/+f0qv1UNqH94NAAAAAElFTkSuQmCC</Preview>
+  <Object type="System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="UPN" children="Controls">
+    <Property name="ClientSize">1007, 624</Property>
+    <Property name="Name">UPN</Property>
+    <Property name="Text">Form</Property>
+    <Event name="Load">UPN_Load</Event>
+    <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="richtextbox1" children="Controls">
+      <Property name="Location">363, 13</Property>
+      <Property name="Name">richtextbox1</Property>
+      <Property name="ReadOnly">True</Property>
+      <Property name="Size">632, 319</Property>
+      <Property name="TabIndex">14</Property>
+      <Property name="Text" xml:space="preserve">Help
+
+Click the "Office 365" button to log into Office 365.
+
+Once you have authenticated with Office 365 put the user's current UPN in the the first box and the user's new UPN in the second box and click "Update".
+
+Once the change has succesfully been made a green "Completed" box will appear and you are done. If you need to make a change to a second user you can put the new information in the first and second and click "Update" again, no need to re-authenticate.
+</Property>
+      <Event name="TextChanged">richtextbox1_TextChanged</Event>
+    </Object>
+    <Object type="System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="groupbox1" children="Controls">
+      <Property name="Location">18, 13</Property>
+      <Property name="Name">groupbox1</Property>
+      <Property name="Size">338, 118</Property>
+      <Property name="TabIndex">13</Property>
+      <Property name="TabStop">False</Property>
+      <Property name="Text">Authenticate with Office 365</Property>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonOffice365" children="Controls">
+        <Property name="Location">6, 31</Property>
+        <Property name="Name">buttonOffice365</Property>
+        <Property name="Size">122, 36</Property>
+        <Property name="TabIndex">0</Property>
+        <Property name="Text">Office 365</Property>
+        <Property name="UseVisualStyleBackColor">True</Property>
+        <Event name="Click">buttonOffice365_Click</Event>
+      </Object>
+      <Object type="SAPIENTypes.ProgressBarOverlay, PowerShell Studio, Version=5.2.122.0, Culture=neutral, PublicKeyToken=null" name="progressbaroverlayLogged" children="Controls">
+        <Property name="Location">6, 73</Property>
+        <Property name="Name">progressbaroverlayLogged</Property>
+        <Property name="Size">122, 39</Property>
+        <Property name="TabIndex">11</Property>
+        <Property name="TextOverlay">Logged In</Property>
+      </Object>
+    </Object>
+    <Object type="System.Windows.Forms.StatusBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="statusbar1" children="Controls">
+      <Property name="Location">0, 602</Property>
+      <Property name="Name">statusbar1</Property>
+      <Property name="Size">1007, 22</Property>
+      <Property name="TabIndex">12</Property>
+      <Property name="Text">Status</Property>
+    </Object>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonUpdate" children="Controls">
+      <Property name="Location">511, 424</Property>
+      <Property name="Name">buttonUpdate</Property>
+      <Property name="Size">120, 36</Property>
+      <Property name="TabIndex">0</Property>
+      <Property name="Text">Update</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Event name="Click">buttonUpdate_Click</Event>
+    </Object>
+    <Object type="SAPIENTypes.ProgressBarOverlay, PowerShell Studio, Version=5.2.122.0, Culture=neutral, PublicKeyToken=null" name="progressbaroverlay1" children="Controls">
+      <Property name="Location">511, 466</Property>
+      <Property name="Name">progressbaroverlay1</Property>
+      <Property name="Size">120, 36</Property>
+      <Property name="TabIndex">10</Property>
+      <Property name="TextOverlay">Completed</Property>
+    </Object>
+    <Object type="System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="groupboxUPN2" children="Controls">
+      <Property name="Location">18, 455</Property>
+      <Property name="Name">groupboxUPN2</Property>
+      <Property name="Size">487, 88</Property>
+      <Property name="TabIndex">6</Property>
+      <Property name="TabStop">False</Property>
+      <Property name="Text">User's New UPN</Property>
+      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="textboxUPN2" children="Controls">
+        <Property name="ForeColor">LightGray</Property>
+        <Property name="Location">6, 33</Property>
+        <Property name="Name">textboxUPN2</Property>
+        <Property name="Size">295, 20</Property>
+        <Property name="TabIndex">0</Property>
+        <Property name="Text">New UPN</Property>
+        <Event name="TextChanged">textboxUPN2_TextChanged</Event>
+        <Event name="VisibleChanged">Watermark_VisibleChanged</Event>
+        <Event name="Enter">Watermark_Enter</Event>
+        <Event name="Leave">Watermark_Leave</Event>
+      </Object>
+      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="label1" children="Controls">
+        <Property name="Location">307, 33</Property>
+        <Property name="Name">label1</Property>
+        <Property name="Size">162, 23</Property>
+        <Property name="TabIndex">2</Property>
+        <Property name="Text">@oneazcu.com</Property>
+      </Object>
+    </Object>
+    <Object type="System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="groupboxUPN1" children="Controls">
+      <Property name="Location">18, 338</Property>
+      <Property name="Name">groupboxUPN1</Property>
+      <Property name="Size">487, 88</Property>
+      <Property name="TabIndex">5</Property>
+      <Property name="TabStop">False</Property>
+      <Property name="Text">User's Current UPN</Property>
+      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="textboxUPN1" children="Controls">
+        <Property name="ForeColor">LightGray</Property>
+        <Property name="Location">8, 30</Property>
+        <Property name="Name">textboxUPN1</Property>
+        <Property name="Size">293, 20</Property>
+        <Property name="TabIndex">0</Property>
+        <Property name="Text">Current UPN</Property>
+        <Event name="TextChanged">textboxUPN1_TextChanged</Event>
+        <Event name="VisibleChanged">Watermark_VisibleChanged</Event>
+        <Event name="Enter">Watermark_Enter</Event>
+        <Event name="Leave">Watermark_Leave</Event>
+      </Object>
+      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labeloneazcucom" children="Controls">
+        <Property name="Location">307, 33</Property>
+        <Property name="Name">labeloneazcucom</Property>
+        <Property name="Size">157, 23</Property>
+        <Property name="TabIndex">1</Property>
+        <Property name="Text">@oneazcu.com</Property>
+      </Object>
+    </Object>
+  </Object>
+  <Code><![CDATA[<#
+.NOTES
+===========================================================================
+Created with: 	SAPIEN Technologies, Inc., PowerShell Studio 2016 v5.2.122
+Created on:   	05/13/2016 3:48 PM
+Created by:   	Brad Martin
+Organization: 	OneAZ Credit Union
+Filename:		ChangeO365UPN.psf
+===========================================================================
+.DESCRIPTION
+This GUI script allows a Tech to change a user's Office 365 UPN to match their local Active Directory UPN. This usually happens after a user's name change.
+UPN changes are not syncronized by the Office 365 AD Replication tool so they must be manually changed.
+#>
+
+$UPN_Load = {
+	#TODO: Initialize Form Controls here
+	import-module MSOnline
+	#Make the "Logged In" Progress Bar invisible
+	$progressbaroverlayLogged.Visible = $false
+	#Make the "Completed" Progress Bar Invisible
+	$progressbaroverlay1.Visible = $false
+	#Don't Enable the "Update" button unless both text fields have data
+}
+
+$buttonOffice365_Click = {
+	#Login to Office 365 / Azure Active Directory
+	$msolcred = get-credential
+	Connect-MsolService -credential $msolcred -ErrorAction SilentlyContinue -ErrorVariable LogonError;
+	If ($LogonError)
+	{
+		#If the Office 365 login fails then generate an error message at the bottom of the window and change the Office365 button to red.
+		$statusbar1.Text = "Login Failed, please try again."
+		$buttonOffice365.ForeColor = "Red"
+		Return
+	}
+	Else
+	{
+		$statusbar1.Text = ""
+		$buttonOffice365.ForeColor = "Green"
+		$buttonOffice365.Text = 'Logged In'
+		$buttonOffice365.Enabled = $false
+	}
+	#Make the "Logged In" Progress Bar visible
+	$progressbaroverlayLogged.Visible = $true
+	$progressbaroverlayLogged.Value = 100
+	
+}
+
+$buttonUpdate_Click = {
+	#Check to see if user UPN exists in Office 365, if the UPN exists then update it to the new UPN.
+	#Set UPN variable to @oneazcu.com
+	$UPN = "@oneazcu.com"
+	#Turn the text in the UPN text boxes into variables
+	$UPNold = $textboxUPN1.Text
+	$UPNnew = $textboxUPN2.Text
+	#Check to see if the old UPN actually exists in Office 365 and generates and error if it does not. Otherwise, proceeds with the change.
+	$Check = get-msoluser -UserPrincipalName $UPNold$UPN -ErrorAction SilentlyContinue
+	If ($Check -eq $Null)
+	{
+		$statusbar1.Text = "That UPN doesn't exist in Office 365."
+		return
+	}
+	Else
+	{
+		$statusbar1.Text = ""
+		Set-MsolUserPrincipalName -UserPrincipalName $UPNold$UPN -NewUserPrincipalName $UPNnew$UPN
+		#Make the Progress Bar visible
+		$progressbaroverlay1.visible = $true
+		#Reset the Progress Bar
+		$progressbaroverlay1.Value = 0
+		#Set the Progress Bar to completed
+		$progressbaroverlay1.Value = 100
+	}
+}
+
+$textboxUPN1_TextChanged = {
+	# 	NOTE: Make sure you ignore the default watermark text when validating
+	#	if($textboxWatermark.Text -eq $textboxWatermark.Tag)
+	#	{
+	#		#ignore or invalid input	
+	#	}
+}
+
+$Watermark_VisibleChanged = {
+	if ($this.Visible -and $this.Tag -eq $null)
+	{
+		#Initialize the watermark and save it in the Tag property
+		$this.Tag = $this.Text;
+		$this.ForeColor = 'LightGray'
+		#If we have focus then clear out the text
+		if ($this.Focused)
+		{
+			$this.Text = ""
+			$this.ForeColor = 'WindowText'
+		}
+	}
+}
+
+$Watermark_Enter = {
+	if ($this.Text -eq $this.Tag)
+	{
+		#Clear the text
+		$this.Text = ""
+		$this.ForeColor = 'WindowText'
+	}
+}
+
+$Watermark_Leave = {
+	if ($this.Text -eq "")
+	{
+		#Display the watermark
+		$this.Text = $this.Tag
+		$this.ForeColor = 'LightGray'
+	}
+}
+
+$textboxUPN2_TextChanged = {
+	# 	NOTE: Make sure you ignore the default watermark text when validating
+	#	if($textboxWatermark.Text -eq $textboxWatermark.Tag)
+	#	{
+	#		#ignore or invalid input	
+	#	}
+}
+
+$groupbox2_Enter={
+	#TODO: Place custom script here
+	
+}
+
+$richtextbox1_TextChanged={
+	#TODO: Place custom script here
+	
+}
+]]></Code>
+  <Mode>0</Mode>
+  <Assemblies>
+    <Assembly>mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+  </Assemblies>
+</File>
